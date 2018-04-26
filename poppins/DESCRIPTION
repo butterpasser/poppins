@@ -1,0 +1,10 @@
+Package: poppins
+Title: Package simplifies analytics
+Version: 0.0.0.9000
+Authors@R: person("Hariraj", "K", email = "harirajk@protonmail.com", role = c("aut", "cre"))
+Description: Package simplifies analytics.
+Depends: R (>= 3.4.4)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1.9000
